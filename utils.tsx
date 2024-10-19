@@ -1,3 +1,5 @@
+"use client";
+
 export function encodeString(message: string) {
   return encodeRot13(message);
 }
@@ -21,6 +23,3 @@ export function decodeRot13(message: string) {
     )
   );
 }
-
-// copy to clipboard
- 
