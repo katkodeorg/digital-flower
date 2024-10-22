@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Digital Flower",
-  description: "Send flowers to your special ones",
+  title: "Open this",
+  description: "You might like what you find",
 };
 
 export default function RootLayout({
